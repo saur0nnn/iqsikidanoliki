@@ -1,2 +1,1 @@
-# iqsikidanoliki
-banzi iqsiki da noliki saurnolisgan
+# banzi iqsiki da noliki saurnolisgan
